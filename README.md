@@ -1,2 +1,2 @@
 # LeadershipNotes
-My blog about leadership based on my experience with leading multiple teams over a decade.
+My blog about leadership is based on my experience with leading multiple teams over a decade.
