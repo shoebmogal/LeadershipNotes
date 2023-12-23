@@ -1,6 +1,6 @@
 # Welcome to LeadershipNotes
 
-Greetings, fellow leaders, aspiring leaders, and enthusiasts of effective leadership! I am [Your Name], a seasoned professional with over a decade of experience in leading multiple teams. As the Director of Engineering and a proud co-founder, I have garnered insights, faced challenges, and celebrated successes that have shaped my journey.
+Greetings, fellow leaders, aspiring leaders, and enthusiasts of effective leadership! I am Shoeb Mogal, a seasoned professional with over a decade of experience in leading multiple teams. As the Director of Engineering and a proud co-founder, I have garnered insights, faced challenges, and celebrated successes that have shaped my journey.
 
 LeadershipNotes is more than just a blog; it's a repository of my thoughts, reflections, and observations on the intricate art of leadership. Here, I share my personal experiences and the lessons I've learned along the way. It's important to note that the views expressed are entirely my own and do not represent the stance of my current or previous employers.
 
