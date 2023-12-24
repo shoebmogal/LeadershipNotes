@@ -1,6 +1,6 @@
 # Welcome to LeadershipNotes
 
-[Jump To Content](https://shoebmogal.github.io/LeadershipNotes/Content)
+[Jump To Content](/LeadershipNotes/Content)
 
 Greetings, fellow leaders, aspiring leaders, and enthusiasts of effective leadership! I am Shoeb Mogal, a seasoned professional with over a decade of experience in leading multiple teams. As the Director of Engineering and a proud co-founder, I have garnered insights, faced challenges, and celebrated successes that have shaped my journey.
 
