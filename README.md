@@ -13,4 +13,3 @@ Thank you for visiting LeadershipNotes. Let's embark on this exploration of lead
 Warm regards,
 Shoeb
 
-[Content](/Index)
