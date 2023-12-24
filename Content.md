@@ -1,3 +1,8 @@
 
-1. [Intro](/)
-2. [Index](/Index)
+1.
+
+
+[Next](/LeadershipNotes/)
+
+[Content](/LeadershipNotes/Content)
+[Home Page](/LeadershipNotes/)
