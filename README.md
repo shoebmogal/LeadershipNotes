@@ -15,4 +15,6 @@ Thank you for visiting LeadershipNotes. Let's embark on this exploration of lead
 Warm regards,
 Shoeb
 
-[Next](https://shoebmogal.github.io/LeadershipNotes/Content)
+[Content](/LeadershipNotes/Content)
+
+[LICENSE](/LeadershipNotes/LICENSE)
