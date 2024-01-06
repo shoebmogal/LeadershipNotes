@@ -45,4 +45,7 @@ Implementing these steps may seem meticulous, but it safeguards against misinfor
 
 For additional resources, refer to the [Minto Pyramid method](https://untools.co/minto-pyramid). It is a valuable tool for structuring your communication effectively.
 
-PS: The use of the term "unionize" is metaphorical, emphasizing the importance of aligning your reports based on the organizational mission.
+[Content](/LeadershipNotes/Content)
+
+[Home Page](/LeadershipNotes/)
+
