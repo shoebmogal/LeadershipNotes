@@ -1,3 +1,5 @@
+# Communicating News And Decisions
+
 Communicating new information, decisions, or any news within your organization requires a strategic approach. People interpret the same message differently, and casual communication without preparation can lead to increased workload as you spend more time clarifying and calming individuals down. Here's a structured guide on how to effectively communicate:
 
 1. **Avoid Group Communication Initially:**
