@@ -1,5 +1,5 @@
 
-1.
+1. [Communicating News and Decisions](/LeadershipNotes/Communicating-News-And-Decisions)
 
 
 [Next](/LeadershipNotes/)
