@@ -13,6 +13,7 @@ Whether you're a seasoned leader seeking inspiration, a budding leader navigatin
 Thank you for visiting LeadershipNotes. Let's embark on this exploration of leadership together.
 
 Warm regards,
+
 Shoeb
 
 [Content](/LeadershipNotes/Content)
