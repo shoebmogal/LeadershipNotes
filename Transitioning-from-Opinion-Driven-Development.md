@@ -13,9 +13,10 @@
 - Different design docs can solve the same problem, so team members need to know to avoid doing the same work twice.
 - Sometimes, having many proposals helps in comparing and making better decisions. It's a good exercise.
 - If proposals are similar, team members can work together.
-- Design Docs should be easy for everyone, including business people, to understand. Technical details must be added at the end, so that they can be skipped by non-technical stakeholders.
+- Design Docs should be easy for everyone, including business people, to understand. Technical details must be added at the end so that they can be skipped by non-technical stakeholders.
 - Authors should not spend too much time overthinking the document; a few days of focused effort should be enough.
 - The Design Doc is just a proposal, the team doesn't have to implement it just because it was written. A rejected design doc is great progress by the team, as collectively they are aligned on what not to do.
+- The presence of Design Docs does not merit its prioritization. Meaning, that you not should work on the solution just because you have a design doc. Prioritization is always decided based on business impact.
 
 ## Design Doc Evaluation Checklist:
 
@@ -38,3 +39,5 @@
 
 
 The primary purpose of Design Docs is to expedite failure. Ideas lacking substantial potential should be identified early, allowing for rejection or iteration. Embracing this approach signifies success in the development process.
+
+
