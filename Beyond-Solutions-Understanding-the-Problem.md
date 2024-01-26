@@ -57,6 +57,7 @@ To apply this approach, consider the following template:
 	• Are there other stakeholders who could benefit from your idea?
 
 I have created a google form to capture such problems. Feel free to [download](https://docs.google.com/forms/d/e/1FAIpQLSe61IHLPOAuGkOQiTm1TCRHGaaKvMvN2NJgW9zhtb8yf7_lnA/viewform) it.
+
 **Enhancing the Approach**
 
 To further refine this methodology, consider incorporating feedback loops from stakeholders, regularly revisiting the problem definition as the project evolves, and fostering a culture that values questioning and understanding as much as executing.
