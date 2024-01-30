@@ -47,22 +47,49 @@ Refusing to engage in growth planning implies a stagnant mindset, hindering inno
 To assist in analyzing growth plans, consider utilizing the template provided below:
 
 **Template Plan:**
+
 *This [month/quarter/year],*
+
 *I would like to [achieve/learn/experience/grow]*
+
 *the skill of [name the skill]*
+
 *by [designing/delegating/deciding/doing]*
+
 *project [name the project/objective].*
+
 *This project is providing value [insert value here] to the company.*
+
 *We can measure success with [success measurements]*
 
 *Example:*
-*This quarter,*
-*I would like to learn*
-*the skill of communication*
-*by doing*
-*Knowledge sharing sessions about our APIs.*
-*This will help in faster adoption of our APIs.*
-*I will consider it a success if we get 40% fewer support tickets and our developers provide positive feedback in the survey.*
-*Behaviorally, I would like to make it part of my routine, where every new API introduced, I would like to do a documentation or Knowledge sharing session about it.*
 
-*PS: The framework of designing/delegating/deciding/doing is from Mike Michalowicz's book "Clockwork." I highly recommend it.*
+*This quarter,*
+
+*I would like to*
+
+*improve my communication skills*
+
+*by doing*
+
+*Knowledge-sharing sessions about our APIs.*
+
+*This will help in the faster adoption of our APIs.*
+
+*I will consider it a success if we get 40% fewer support tickets and our developers provide positive feedback in the survey.*
+
+*Behaviorally, I would like to make it part of my routine, that every new API introduced, I would like to do a documentation or Knowledge sharing session about it.*
+
+
+## The designing/delegating/deciding/doing framework
+
+This methodology draws inspiration from "Clockwork" by Mike Michalowicz, a book I strongly endorse. The core principle emphasizes the importance of prioritizing *design* over mere execution.
+
+Here's my interpretation of the framework:
+- **Doing**: Merely executing assigned tasks equates to fulfilling basic expectations.
+- **Deciding**: Contributing to or making decisions about the next steps signifies strong performance.
+- **Delegating**: Surpassing expectations involves not only making decisions but also guiding others in execution.
+- **Designing**: Engaging with customers, understanding their issues, setting priorities, and crafting solutions mark the hallmark of exceptional performance.
+
+I gauge performance by the number of successful design-oriented initiatives in an individual's development trajectory.
+
