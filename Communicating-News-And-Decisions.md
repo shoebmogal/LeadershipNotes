@@ -41,7 +41,7 @@ Communicating new information, important decisions, or any important news within
 13. **Utilize Minto Pyramid Method:**
     Employ the Minto Pyramid method to structure and convey your message effectively.
 
-Implementing these steps may seem meticulous, but it safeguards against misinformation, groupism, and negative criticism. In the context of a large number of reports, consider reorganizing in a sustainable manner to maintain effective communication.
+Implementing these steps may seem meticulous, but it safeguards against misinformation, groupism, and negative criticism. In the context of a large number of reports, consider reorganizing sustainably to maintain effective communication.
 
 For additional resources, refer to the [Minto Pyramid method](https://untools.co/minto-pyramid). It is a valuable tool for structuring your communication effectively.
 
