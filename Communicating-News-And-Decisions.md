@@ -1,6 +1,6 @@
 # Communicating News And Decisions
 
-Communicating new information, important decisions, or any important news within your organization requires more thought than just writing an email or setting up an email. People interpret the same message differently, and casual communication without preparation can lead to increased workload as you spend more time clarifying and calming individuals down. Here's a structured guide on how to effectively communicate:
+Communicating new information, important decisions, or any important news within your organization requires more thought than just writing an email or setting up a meeting. People interpret the same message differently, and casual communication without preparation can lead to increased workload as you spend more time clarifying and calming individuals down. Here's a structured guide on how to effectively communicate:
 
 1. **Avoid Group Communication Initially:**
    Never initiate communication with the entire group on the first attempt. Group communication at the outset can create a sense of opposition, positioning you against them. Even positive news may be perceived critically based on individual feedback.
